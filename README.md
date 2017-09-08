@@ -1,12 +1,9 @@
 # cmput301
 Lab1
 
-<<<<<<< HEAD
-=======
+
 Edit 1 from Local
+ 
 
-Edit 
+Edit 2 from github -- additional changes
 
-Change online
-
->>>>>>> edit1
